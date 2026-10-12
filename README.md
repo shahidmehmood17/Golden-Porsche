@@ -171,11 +171,10 @@ use.
 
 ## 👤 Author
 
-**Your Name**
+**Shahid Mehmood**
 
--   GitHub: [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
--   Portfolio: Add your portfolio link
--   Contact: Add a professional contact method
+-   GitHub: [@shahidmehmood17](https://github.com/shahidmehmood17)
+-   Contact: shahidmehmood2386@gmail.com
 
 ------------------------------------------------------------------------
 
